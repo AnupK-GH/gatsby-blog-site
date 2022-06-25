@@ -46,9 +46,9 @@ I spent around four days writing the blog entries for three cloud projects and t
 I pushed all of the latest changes to GitHub.
 
 
-###### 5) Push changes to GitHub
+###### 5) Reviewed changes to GitHub
 
-I pushed all of the latest changes to GitHub.
+After the first push, I like checking out all of the latest changes uploaded to GitHub to double check I didn’t make an error.
 
 
 ###### 6) Go to Static Web App in Azure to create the site
