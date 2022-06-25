@@ -126,6 +126,12 @@ latitude:50.84439,longitude:4.35609,destinationhost:honeypotlab-vm,username:DEFA
 ```
 Russia is using a lot of “Administrator”. Netherlands is using different usernames like CLOCK, USER2, PHARMACY. Finally, Belgium is using “DEFAULT” a lot.
 
+
+###### 14) After around 8 ½ hours I reached my limit of 1000 daily limit requests on the Geolocation API.
+
+![](./14_map_8-5.png)
+
+
 ###### 15) The next day I let it run again to use up another 1000 requests on the Geolocation API.
 
 ![](./15_last_map.png)
