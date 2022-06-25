@@ -61,7 +61,7 @@ I selected the plan type as Free and then logged into GitHub to authorize the au
 
 I waited a few minutes for it to be created because the GitHub Actions workflow were working to deploy as seen in the picture below. After a few minutes it was successful and I was able to see my blog site on the Azure generated URL. Now I had to create a Custom Domain to be able to point to my ‘anupk.me’ domain.
 
-![](./6_github.png)
+![](./6_github.PNG)
 
 
 ###### 7) Create the Custom Subdomain
@@ -78,10 +78,10 @@ Then, I went back to NameCheap I went to Advanced DNS, and added a Type-TXT Reco
 After about 10 minutes I thought I did something wrong, but the video did say it can take time. So then I waited 30 minutes and then the subdomain of ‘blog.anupk.me’ began working!!
 
 
-![](./7_domain.png)
+![](./7_domain.PNG)
 
 
 
 #### What are your biggest takeaways?
 
-The most important takeaway for me is to have learned more about Azure Static Web App, Custom Domains, Gatsby, and the [Markdown language]( https://www.markdownguide.org/). Also now I have a working site I can upload my blogs! The process of creating the Gatsby site with a template was very straightforward and doing minor modifications to the gatsby-config.js file to change some settings helped me learn some basics. I also learned how to create a Static Web Site and create a custom domain for it. The only thing that took me time was writing the posts and remembering what I did for the other projects. Thank you to ‘Microsoft Developers’ channel on Youtube. My cloud learning journey continues…
+The most important takeaway for me is to have learned more about Azure Static Web App, Custom Domains, Gatsby, and the [Markdown language]( https://www.markdownguide.org/). Also now I have a working site I can upload my blogs! The process of creating the Gatsby site with a template was very straightforward and doing minor modifications to the gatsby-config.js file to change some settings helped me learn some basics. I also learned how to create a Static Web Site and create a custom domain for it. The only thing that took me time was writing the posts and remembering what I did for the other projects. Thank you to ‘Microsoft Developers’ channel on Youtube. My cloud learning journey continues...
