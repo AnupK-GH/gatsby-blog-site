@@ -61,7 +61,7 @@ I selected the plan type as Free and then logged into GitHub to authorize the au
 
 I waited a few minutes for it to be created because the GitHub Actions workflow were working to deploy as seen in the picture below. After a few minutes it was successful and I was able to see my blog site on the Azure generated URL. Now I had to create a Custom Domain to be able to point to my ‘anupk.me’ domain.
 
-![](./6_github_workflow.png)
+![](./6_github.png)
 
 
 ###### 7) Create the Custom Subdomain
@@ -78,7 +78,7 @@ Then, I went back to NameCheap I went to Advanced DNS, and added a Type-TXT Reco
 After about 10 minutes I thought I did something wrong, but the video did say it can take time. So then I waited 30 minutes and then the subdomain of ‘blog.anupk.me’ began working!!
 
 
-![](./7_subdomain.png)
+![](./7_domain.png)
 
 
 
