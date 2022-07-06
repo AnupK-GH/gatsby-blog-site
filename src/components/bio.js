@@ -46,7 +46,7 @@ const Bio = () => {
         <p>
           Written by <strong>{author.name}</strong> {author?.summary || null}
           {` `}
-          <span><a href="https://www.linkedin.com/Anup-K">You can add me on LinkedIn.</a></span>
+          <span><a href="https://www.linkedin.com/anup-k">You can add me on LinkedIn.</a></span>
             
           
         </p>
