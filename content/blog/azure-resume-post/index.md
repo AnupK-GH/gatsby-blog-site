@@ -93,8 +93,8 @@ I would say the hardest part was figuring out the coding. I made a bunch of mino
 The part I enjoyed the most is customizing the HTML and CSS to fit how I wanted the website to look. The last time I was using HTML was in college when I worked on my MySpace page using Microsoft Frontpage. 
 
 #### What are your biggest takeaways?
-As this was my first ever completed cloud project, I have a great sense of accomplishment. The most important takeaway for me is to have learned more about Azure Functions, Azure Storage, Azure CosmosDB, and JavaScript. I also was introduced to how GitHub and VS Code work. I think by doing this project I was able to learn a lot compared to watching videos or reading articles. 
-Thank you to 'A Cloud Guru' and StackSocial for having clues to help me diagnose my issues. My cloud learning journey continues…
+As this was my first ever completed cloud project, I have a great sense of accomplishment. The most important takeaway for me is to have learned more about Azure Functions, Azure Storage, Azure CosmosDB, and Azure CDN. I also was introduced to how GitHub and VS Code work. I think by doing this project I was able to learn a lot compared to watching videos or reading articles. 
+Thank you to 'A Cloud Guru', StackSocial for having clues to help me diagnose my issues, and Gwyn Peña-Siguenza, who wrote the challenge. My cloud learning journey continues…
 
 
 
