@@ -57,7 +57,7 @@ In local.settings.json file I pasted my Primary connection string from Azure Key
 >This where I ran into another problem where I had mistakenly did a ‘pull’ and lost my GetResumeCounter.cs file on my computer. Also, I had a main branch and a master branch on my GitHub and when I pushed it went to master branch. I felt something was wrong so I deleted everything, started over, and learned why I had a master branch. Next time around when I created my repository I made sure I pulled it to the folder right away and then began working on that folder.”
 Now once I got back to where I was I ran into another issue, which took me about 3 days to figure out from trying random things and googling.
 
-The next problem involved a bunch of underlines in the GetResumeCounter.cs file. I tried updating all of the packages and restarting and still it would not go away, therefore would not compile.
+That problem involved a bunch of underlines in the GetResumeCounter.cs file, which indicates there is an error. I tried updating all of the packages and restarting and still it would not go away, therefore would not compile.
 ![](./2_GetResumeCounter_Error.png)
 
 > I tried installing more NuGet Packages which I thought would help with fixing the issues from StackSocial.  On the third day, I decided I would get a Package Manager and uninstall all of the extensions. I installed  the NuGet package ver 4, preview 3 & then 2 for [CosmosDB](https://www.nuget.org/packages/Microsoft.Azure.WebJobs.Extensions.CosmosDB#versions-body-tab). It didn’t work but finally when I tried version 3.0.10 it finally worked and made the underlines go away!”
